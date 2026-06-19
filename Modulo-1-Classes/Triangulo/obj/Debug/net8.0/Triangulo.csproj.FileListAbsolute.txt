@@ -1,0 +1,14 @@
+/home/emerson/CSharp Programação Orientada a Objetos/Modulo-1-Classes/Triangulo/obj/Debug/net8.0/Triangulo.GeneratedMSBuildEditorConfig.editorconfig
+/home/emerson/CSharp Programação Orientada a Objetos/Modulo-1-Classes/Triangulo/obj/Debug/net8.0/Triangulo.AssemblyInfoInputs.cache
+/home/emerson/CSharp Programação Orientada a Objetos/Modulo-1-Classes/Triangulo/obj/Debug/net8.0/Triangulo.AssemblyInfo.cs
+/home/emerson/CSharp Programação Orientada a Objetos/Modulo-1-Classes/Triangulo/obj/Debug/net8.0/Triangulo.csproj.CoreCompileInputs.cache
+/home/emerson/CSharp Programação Orientada a Objetos/Modulo-1-Classes/Triangulo/bin/Debug/net8.0/Triangulo
+/home/emerson/CSharp Programação Orientada a Objetos/Modulo-1-Classes/Triangulo/bin/Debug/net8.0/Triangulo.deps.json
+/home/emerson/CSharp Programação Orientada a Objetos/Modulo-1-Classes/Triangulo/bin/Debug/net8.0/Triangulo.runtimeconfig.json
+/home/emerson/CSharp Programação Orientada a Objetos/Modulo-1-Classes/Triangulo/bin/Debug/net8.0/Triangulo.dll
+/home/emerson/CSharp Programação Orientada a Objetos/Modulo-1-Classes/Triangulo/bin/Debug/net8.0/Triangulo.pdb
+/home/emerson/CSharp Programação Orientada a Objetos/Modulo-1-Classes/Triangulo/obj/Debug/net8.0/Triangulo.dll
+/home/emerson/CSharp Programação Orientada a Objetos/Modulo-1-Classes/Triangulo/obj/Debug/net8.0/refint/Triangulo.dll
+/home/emerson/CSharp Programação Orientada a Objetos/Modulo-1-Classes/Triangulo/obj/Debug/net8.0/Triangulo.pdb
+/home/emerson/CSharp Programação Orientada a Objetos/Modulo-1-Classes/Triangulo/obj/Debug/net8.0/Triangulo.genruntimeconfig.cache
+/home/emerson/CSharp Programação Orientada a Objetos/Modulo-1-Classes/Triangulo/obj/Debug/net8.0/ref/Triangulo.dll
