@@ -1,7 +1,6 @@
 ﻿using System.Globalization;
 
 namespace Funcionario;
-
 class Program
 {
     static void Main(string[] args)
