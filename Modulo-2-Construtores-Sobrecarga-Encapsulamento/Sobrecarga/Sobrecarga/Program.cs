@@ -13,6 +13,13 @@ class Program
         double preco = double.Parse(Console.ReadLine() ?? "0", CultureInfo.InvariantCulture);
         
         Produto produto = new Produto(nome, preco);
+
+        Produto produto2 = new Produto
+        {
+            Nome = "TV", 
+            Preco = 500.00,
+            Quantidade = 5
+        };
         
         Console.WriteLine("-------------------------------------------------------------------------------------------");
         Console.WriteLine($"Dados do produto: {produto}");
